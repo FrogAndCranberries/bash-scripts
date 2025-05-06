@@ -88,7 +88,7 @@ fi
 }
 
 ##################################
-# Check and get options
+# Check sudo and get options
 ##################################
 
 Check_sudo
